@@ -32,22 +32,22 @@
 
 ## 구성
 
-- 1. SetUp
-- 2. Router
-- 3. SignUp
-- 4. Login
-- 5. Styling
-- 6. Vuex
-- 7. Til List
-- 8. Til Create
-- 9. Review
-- 10. API Modules
-- 11. Til Delete
-- 12. Til Edit
-- 13. Filter
-- 14. Router Navigation Guard
-- 15. Unit Test
-- 16. Complate
+- SetUp
+- Router
+- SignUp
+- Login
+- Styling
+- Vuex
+- Til List
+- Til Create
+- Review
+- API Modules
+- Til Delete
+- Til Edit
+- Filter
+- Router Navigation Guard
+- Unit Test
+- Complate
 
 
 ## 참고
