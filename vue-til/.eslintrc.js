@@ -21,7 +21,7 @@ module.exports = {
                 tabWidth: 4,
                 semi: true,
                 arrowParens: 'avoid',
-                endOfLine: 'lf',
+                endOfLine: 'auto',
             },
         ],
     },
